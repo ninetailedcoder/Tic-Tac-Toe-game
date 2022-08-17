@@ -1,5 +1,6 @@
 from shutil import move
-from typing_extensions import Self
+#if you have issues trying to start the game try uncommenting the line below
+#from typing_extensions import Self 
 import time
 
 from player import HumanPlayer, RandomComputerPlayer
